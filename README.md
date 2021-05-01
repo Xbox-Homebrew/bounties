@@ -1,1 +1,1 @@
-# List of solved bounties
+# List of completed bounties
